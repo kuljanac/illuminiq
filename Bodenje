@@ -1,0 +1,18 @@
+Relay 5 ->port 11 na Arduinu
+Relay 4 ->port 10 na Arduinu
+Relay 3 ->port 9 na Arduinu
+Relay 2 ->port 8 na Arduinu
+Relay 1 ->port 7 na Arduino
+Relay DC- ->na Breadboard -
+Relay DC+ ->na Breadboard +
+PIR senzor5 ->port 6 na Arduinu
+PIR senzor4 ->port 5 na Arduinu
+PIR senzor3 ->port 4 na Arduinu
+PIR senzor2 ->port 3 na Arduinu
+PIR senzor1 ->port 2 na Arduinu
+PIR senzor VCC ->na 5V Arduino
+PIR senor GND ->na GND Arduino
+NodeMCU RX  ->port 1 na Arduinu
+NodeMCU TX  ->port 0 na Arduinu
+NodeMCU GND ->GND na Arduinu
+NodeMCU 3V3 ->Rst na Arduinu
